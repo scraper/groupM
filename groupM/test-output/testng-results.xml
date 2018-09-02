@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4389" started-at="2018-09-02T22:55:27Z" finished-at="2018-09-02T22:55:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4389" started-at="2018-09-02T22:55:27Z" finished-at="2018-09-02T22:55:31Z">
+      <class name="apiTest.ApiTest">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:apiTest.ApiTest@1ce92674]" name="setBaseUri" is-config="true" duration-ms="603" started-at="2018-09-03T01:55:27Z" finished-at="2018-09-03T01:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="testContentType()[pri:0, instance:apiTest.ApiTest@1ce92674]" name="testContentType" duration-ms="3301" started-at="2018-09-03T01:55:27Z" finished-at="2018-09-03T01:55:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContentType -->
+        <test-method status="PASS" signature="testParams()[pri:0, instance:apiTest.ApiTest@1ce92674]" name="testParams" duration-ms="238" started-at="2018-09-03T01:55:31Z" finished-at="2018-09-03T01:55:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParams -->
+        <test-method status="PASS" signature="testStatusCode()[pri:0, instance:apiTest.ApiTest@1ce92674]" name="testStatusCode" duration-ms="214" started-at="2018-09-03T01:55:31Z" finished-at="2018-09-03T01:55:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCode -->
+      </class> <!-- apiTest.ApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
